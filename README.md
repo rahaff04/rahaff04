@@ -44,14 +44,4 @@
 * **[My Fancy Calendar](https://github.com/rahaff04)**: A custom Flutter calendar mobile application featuring a unique 16-bit pixel theme, integrated with **Hive** for fast local storage, custom local notifications, and interactive pop-up navigation.
 * **[42 Amman Systems Programming](https://github.com/rahaff04)**: Low-level programming projects in C (Unix), including `libft`, `ft_printf`, `get_next_line`, `push_swap`, and `minitalk`, focusing on memory management, algorithm efficiency, and UNIX IPC.
 
----
 
-### 🏆 Leadership & Activities
-- **Social Media Manager** | IEEE Computer Society Student Branch BAU (Managed content and designed visuals for technical events).
-- **Competitor** | IEEE Extreme 2025, IEEE Pitchino 2024, Brain Battle Royal 2024.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahaff04&show_icons=true&theme=radical" alt="Rahaf's GitHub Stats" />
-</p>
